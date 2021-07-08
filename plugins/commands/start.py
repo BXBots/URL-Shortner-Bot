@@ -5,14 +5,18 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 START_TEXT = """
-Hello {}, I am a link shortner telegram bot.
+Hai {}, 
 
-Made by @FayasNoushad
+`I am a link shortner telegram bot`.
+
+👲 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [ʙx ʙᴏᴛᴢ](https://telegram.me/BX_Botz)
+
+
 """
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
+        InlineKeyboardButton('🔰Join Updates Channel🔰', url='https://telegram.me/Bx_Botz')
         ]]
     )
 
