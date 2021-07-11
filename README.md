@@ -10,18 +10,6 @@ A link shortner telegram bot
 
 
 
-## Deploy 
-
-
-```sh
-git clone https://github.com/FayasNoushad/URL-Shortner-Bot/tree/main
-cd URL-Shortner-Bot
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 main.py
-```
-
-</details>
 
 ---
 
